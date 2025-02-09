@@ -1,0 +1,8 @@
+*.mjs
+*.mjs.map
+
+.idea/**
+.vscode/**
+
+_*/bin/**
+_*/obj/**
